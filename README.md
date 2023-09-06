@@ -1,8 +1,8 @@
 # Notes
-Focused mostly on data flow & structure\
 
-Normally would add things such as virtualization,\
-this time tried to stay within the scope of exercise
+📺 Preview the app here: https://transaction-points.vercel.app/
+
+💡 Focused mostly on data flow & structure. Normally would add things such as virtualization, this time tried to stay within the scope of exercise
 
 
 
