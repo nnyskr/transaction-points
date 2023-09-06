@@ -1,7 +1,8 @@
-## Notes
-Focused mostly on data flow & structure
-Normally, would add things such as virtualization; this time tried to stay within the scope of the task
+# Notes
+Focused mostly on data flow & structure\
 
+Normally would add things such as virtualization\
+but tried to stay within the scope of exercise
 
 
 
