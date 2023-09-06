@@ -1,3 +1,11 @@
+## Notes
+Focused mostly on data flow & structure
+Normally, would add things such as virtualization; this time tried to stay within the scope of the task
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
